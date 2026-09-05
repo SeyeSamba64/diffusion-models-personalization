@@ -2,11 +2,6 @@
 
 Two-part project exploring diffusion models, from building a class-conditioned model from scratch to fine-tuning Stable Diffusion XL with DreamBooth + LoRA to generate personalized images of a real person.
 
-![Demo](assets/test_driss_0.png)
-![Demo](assets/test_driss_1.png)
-![Demo](assets/test_driss_2.png)
-<!-- Replace with a grid of the generated personalized portraits (test_driss_*.png) -->
-
 ## Overview
 
 **Part 1 — Understanding diffusion models** (`notebooks/01_diffusion_from_scratch_and_sd_internals.ipynb`)
@@ -20,7 +15,7 @@ Two-part project exploring diffusion models, from building a class-conditioned m
 
 ## Results
 
-| Training photo | Generated: "in Paris, Eiffel Tower" | Generated: stylized portrait |
+| Professional photo | Generated: "in Paris, Eiffel Tower" | Generated: stylized portrait |
 |---|---|---|
 | ![input](assets/test_driss_0.png) | ![paris](assets/test_driss_1.png) | ![styled](assets/test_driss_2.png) |
 
