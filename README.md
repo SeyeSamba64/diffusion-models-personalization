@@ -2,7 +2,9 @@
 
 Two-part project exploring diffusion models, from building a class-conditioned model from scratch to fine-tuning Stable Diffusion XL with DreamBooth + LoRA to generate personalized images of a real person.
 
-![Demo](assets/demo.png)
+![Demo](assets/test_driss_0.png)
+![Demo](assets/test_driss_1.png)
+![Demo](assets/test_driss_2.png)
 <!-- Replace with a grid of the generated personalized portraits (test_driss_*.png) -->
 
 ## Overview
